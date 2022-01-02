@@ -4,11 +4,11 @@ AR.js Studio est une plateforme pour créer en quelques minutes son expérience 
 
 [En apprendre davantage](https://medium.com/@nicolcarpignoli/ar-js-studio-a-call-to-arms-for-the-first-open-source-web-ar-authoring-platform-a031069518f9)
 
-<img src="https://i.ibb.co/nz1ydkR/Schermata-2020-04-11-alle-13-48-16.png"/>
+<img src="https://https://github.com/guarim/Studio-ARJS-LPJulesVerne.io/Ar-js.png"/>
 
 ## Try now!
 
- 🚀[Version en ligne](https://guarim.github.io/Studio-ARJS-LPJV.io/)
+ 🚀[Version en ligne](https://guarim.github.io/Studio-ARJS-LPJulesVerne.io/)
  
  [HacktoberFest page](https://ar-js-org.github.io/studio/hacktoberfest)
 
