@@ -1,14 +1,14 @@
 # AR.js Studio
 
-AR.js Studio is an authoring platform to build Web Augmented Reality experiences, without coding knowledge.
+AR.js Studio est une plateforme pour créer en quelques minutes son expérience de réalité augmenté sans ligne de code.
 
-[Learn more](https://medium.com/@nicolcarpignoli/ar-js-studio-a-call-to-arms-for-the-first-open-source-web-ar-authoring-platform-a031069518f9)
+[En apprendre davantage](https://medium.com/@nicolcarpignoli/ar-js-studio-a-call-to-arms-for-the-first-open-source-web-ar-authoring-platform-a031069518f9)
 
 <img src="https://i.ibb.co/nz1ydkR/Schermata-2020-04-11-alle-13-48-16.png"/>
 
 ## Try now!
 
- 🚀[Online version](https://ar-js-org.github.io/studio/)
+ 🚀[Version en ligne](https://guarim.github.io/Studio-ARJS-LPJV.io/)
  
  [HacktoberFest page](https://ar-js-org.github.io/studio/hacktoberfest)
 
@@ -29,3 +29,5 @@ For maintaining a consistent code style while developing, please use
 Idea: [Nicolò Carpignoli](https://twitter.com/nicolocarp)  
 
 Development: [AR.js Organisation](https://github.com/AR-js-org)
+
+Modification pour utilisation pédagogique : [Guarim Mohamed Professeur Education Nationale]
