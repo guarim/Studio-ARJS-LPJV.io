@@ -5,11 +5,11 @@
 /* Color Variables */
 :root {
   --primary-color: #fff700;
-  --primary-color-dark: #e6de00;
-  --secondary-color: #00dba0;
-  --secondary-color-dark: #00c28e;
-  --passive-color: #f2f2f2;
-  --passive-color-dark: #d9d9d9;
+  --primary-color-dark: #FF0033;
+  --secondary-color: #3366FF;
+  --secondary-color-dark: #3333CC;
+  --passive-color: #FFFFFF;
+  --passive-color-dark: #FFFF99;
   --link-color: #0000ff;
   --max-z-index: 99999;
 }
