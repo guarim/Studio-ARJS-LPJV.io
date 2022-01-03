@@ -37,7 +37,7 @@ class PageHeader extends HTMLElement {
                 }
             </style>
 
-            <a href="/studio">
+            <a href="/Studio-ARJS-LPJulesVerne.io">
                 <img class="logo-img" alt="logo" />
             </a>
         `;
