@@ -25,5 +25,5 @@ Utilisez des images avec un contraste élevé : il peut également s'agir d'imag
 
 ## 4. Page de création de marqueurs:
 
-https://guarim.github.io//Studio-ARJS-LPJulesVerne.io/examples/generator.html
+https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html
 
