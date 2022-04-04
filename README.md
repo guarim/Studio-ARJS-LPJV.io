@@ -6,7 +6,7 @@ AR.js Studio est une plateforme pour créer en quelques minutes son expérience 
 
 <img src="https://github.com/guarim/Studio-ARJS-LPJulesVerne.io/Ar-js.png"/>
 
-## Try now!
+## Essayer le!
 
  🚀[Version en ligne](https://guarim.github.io/Studio-ARJS-LPJulesVerne.io/)
  
