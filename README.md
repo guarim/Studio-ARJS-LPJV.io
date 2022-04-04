@@ -21,10 +21,10 @@ AR.js Studio est une plateforme pour créer en quelques minutes son expérience 
 
 ## Development
 
-For maintaining a consistent code style while developing, please use
+Pour maintenir un style de développement unifié, utiliser:
 [Visual Studio Code](https://code.visualstudio.com/)
 
-# Authors
+# Auteurs des bibliothèques de développement:
 
 Idea: [Nicolò Carpignoli](https://twitter.com/nicolocarp)  
 
