@@ -4,7 +4,7 @@
 
 Tout d'abord, le caractère saccadé du contenu 3D est généralement causé que par un seul facteur : la capacité de la caméra à reconnaître le marqueur. Si les modèles 3D « tremblent » ou s'affichent en saccades c'est que la caméra n'est pas en mesure de reconnaître régulièrement le marqueur. 
 Cela peut être évité en utilisant des marqueurs asymétriques en rotation.
-il est préférabled'utiliser des marqueurs qui ne sont pas similaires s'ils sont regardés sous des angles différents. Assurez-vous donc que si vous faites pivoter votre marqueur, qu'il semble différent selon le point de vue.
+il est préférable d'utiliser des marqueurs qui ne sont pas similaires s'ils sont regardés sous des angles différents. Assurez-vous donc que si vous faites pivoter votre marqueur, qu'il semble différent selon le point de vue.
 
 Exemple:
 
